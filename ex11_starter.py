@@ -9,13 +9,15 @@ Belgium = 'Belgium,10445852,Brussels,737966,Europe,1830,Euro,Catholicism,Dutch,F
 # strings are immutable
 # f-string
 
-# print(f'------, {Belgium}')
+print("-------, {}".format(Belgium))
+print(f'-------, {Belgium}')
 print(f"{'-'*6},{Belgium}")
 
 # TODO: A string with a comma separator replaced by colons
 
 print(re.sub("[ ,]", ":", Belgium))
 print(Belgium.replace(',', ':'))
+
 
 # use join and split
 # seperator = ':'.join(Belgium)
