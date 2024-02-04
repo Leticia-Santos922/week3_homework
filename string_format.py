@@ -62,16 +62,16 @@ print(text[-7:])
 print(text[1:21:2])
 # print up to 11 from LHS, print up to 7 from RHS, print last 7 from RHS, print alt characters in range 1-20
 
-name = 'caroline'
+name = ('caroline')
 print(name[::-1].upper())
 # all characters are printed (::) in reverse (-1). Taking the method .upper --> characters converted to uppercase
 
 
 # SPLIT AND JOIN STRINGS
-line = 'Cally::is:rubbish:at.Python'
+line = 'Cally:is:rubbish:at.Python'
 elems = line.split(':')
 
 elems[0] = 'Lady Kilduff'
-elems[3] = 'FANTASTIC'
+elems[2] = 'FANTASTIC'
 line = ':'.join(elems)
 print(line)

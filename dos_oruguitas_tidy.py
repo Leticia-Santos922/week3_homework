@@ -1,9 +1,9 @@
 # FASTER VERSION
-song = """Dos oruguitas enamoradas Pasan sus noches y madrugadas Llenas de hambre Siguen andando y vegando un mundo Que cambia y sigue cambiando Navegando un mundo"""
+song = "Dos oruguitas enamoradas Pasan sus noches y madrugadas Llenas de hambre Siguen andando y vegando un mundo Que cambia y sigue cambiando Navegando un mundo"
 
 # create a variable lines which is the song split at the spaces to put each word on a new line
 lines = song.split(' ')
-# set the variables: 'indentation' starting at 0 and 'direction' (of indentation) 1 = forward, -1 = backwards
+# set the variables: 'indentation' starting at 0 and 'direction' (of indentation) -1 = RHS forward, 1 = LHS backwards
 indentation = 0
 direction = -1
 # Loop through each word
