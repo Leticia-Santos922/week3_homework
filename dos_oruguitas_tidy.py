@@ -7,10 +7,12 @@ lines = song.split(' ')
 # set the variables: 'indentation' starting at 0 and 'direction' (of indentation) -1 = RHS forward, 1 = LHS backwards
 indentation = 0
 direction = -1
-# Loop through each word
+# Loop through lines
 # enumerate gives the index/ position (i) and the value (line) for each item in the 'lines' collection.
+# e.g. Dos = 0, oruguitas = 1 etc
 for i, line in enumerate(lines):
     # Print the word with the current indentation
+    # e.g. Dos = (ind =0) + (dir = -1) = -1 --> move 1 space to RHS
     # Change indentation direction every third line
     if i % 3 == 0:
         direction *= -1  # Reverse the direction
