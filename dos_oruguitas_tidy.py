@@ -1,5 +1,6 @@
 # FASTER VERSION
-song = "Dos oruguitas enamoradas Pasan sus noches y madrugadas Llenas de hambre Siguen andando y vegando un mundo Que cambia y sigue cambiando Navegando un mundo"
+song = ("Dos oruguitas enamoradas Pasan sus noches y madrugadas Llenas de hambre Siguen andando y "
+        "vegando un mundo Que cambia y sigue cambiando Navegando un mundo")
 
 # create a variable lines which is the song split at the spaces to put each word on a new line
 lines = song.split(' ')
