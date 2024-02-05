@@ -69,9 +69,9 @@ print(name[::-1].upper())
 
 # SPLIT AND JOIN STRINGS
 line = 'Cally:is:rubbish:at.Python'
-elems = line.split(':')
+words = line.split(':')
 
-elems[0] = 'Lady Kilduff'
-elems[2] = 'FANTASTIC'
-line = ':'.join(elems)
+words[0] = 'Lady Kilduff'
+words[2] = 'FANTASTIC'
+line = '-'.join(words)
 print(line)

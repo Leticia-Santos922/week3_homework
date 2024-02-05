@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2befbfa2-15c2-4956-b82c-5cb3d20768ba" name="Changes" comment="" />
+    <list default="true" id="a13f5982-5f70-4804-8398-91fb421d05f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dos_oruguitas_tidy.py" beforeDir="false" afterPath="$PROJECT_DIR$/dos_oruguitas_tidy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex11_starter.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex11_starter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_practice.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,23 +30,28 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="2bpEeRoVsG1NdyAQ4nVvyqvuREz" />
+  <component name="ProjectId" id="2boAXeWzFtsGFOqosdttn3vx4yx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.caterpillar.executor": "Run",
+    "Python.dos-oruguitas.executor": "Run",
     "Python.dos_oruguitas_tidy.executor": "Run",
+    "Python.ex10_pin.executor": "Run",
     "Python.ex11_starter.executor": "Run",
+    "Python.lotto.executor": "Run",
+    "Python.string_format-test.executor": "Run",
     "Python.string_format.executor": "Run",
     "Python.string_practice.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/code/python_homework/week3_homework"
+    "last_opened_file_path": "/Users/kilduffc/Documents/Get_into_Tech/Python Projects/week3_homework"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -53,11 +64,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2befbfa2-15c2-4956-b82c-5cb3d20768ba" name="Changes" comment="" />
-      <created>1706903714471</created>
+      <changelist id="a13f5982-5f70-4804-8398-91fb421d05f6" name="Changes" comment="" />
+      <created>1706871100313</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1706903714471</updated>
+      <updated>1706871100313</updated>
     </task>
     <servers />
   </component>
